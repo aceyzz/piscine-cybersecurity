@@ -20,13 +20,13 @@ Parcours pédagogique composé d'une série de projets successifs : extraction d
 
 | Module | Nom										| Statut		| Note			| XP	|
 |:------:|------------------------------------------|:--------------|:-------------:|------:|
-| 00     | [arachnida](projects/00-arachnida/)		| Commencé		| **   /100** 	| 1'350	|
-| 01     | [ft_otp](projects/01-ft_otp/)			| En attente	| **   /100**	| 1'350	|
-| 02     | [ft_onion](projects/02-ft_onion/)		| En attente	| **   /100**	| 1'350	|
-| 03     | [Reverse me](projects/03-reverse_me/)	| En attente	| **   /100**	| 1'350	|
-| 04     | [Stockholm](projects/04-stockholm/)		| En attente	| **   /100**	| 1'350	|
-| 05     | [Iron Dome](projects/05-iron_dome/)		| En attente	| **   /100**	| 0		|
-| 06     | [Inquisitor](projects/06-inquisitor/)	| En attente	| **   /100**	| 1'350	|
-| 07     | [Vaccine](projects/07-vaccine/)			| En attente	| **   /100**	| 1'350	|
+| 00     | [arachnida](projects/00-arachnida/)		| Commencé		| **...**/100 	| 1'350	|
+| 01     | [ft_otp](projects/01-ft_otp/)			| En attente	| **...**/100	| 1'350	|
+| 02     | [ft_onion](projects/02-ft_onion/)		| En attente	| **...**/100	| 1'350	|
+| 03     | [Reverse me](projects/03-reverse_me/)	| En attente	| **...**/100	| 1'350	|
+| 04     | [Stockholm](projects/04-stockholm/)		| En attente	| **...**/100	| 1'350	|
+| 05     | [Iron Dome](projects/05-iron_dome/)		| En attente	| **...**/100	| 0		|
+| 06     | [Inquisitor](projects/06-inquisitor/)	| En attente	| **...**/100	| 1'350	|
+| 07     | [Vaccine](projects/07-vaccine/)			| En attente	| **...**/100	| 1'350	|
 
 <br>
